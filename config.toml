@@ -3,7 +3,7 @@ baseurl = "https://nandotechinc.github.io/nandotech-website/"
 languageCode = "en-us"
 title = "NandoTech, Inc."
 # Enter your tracking code to enable Google Analytics
-googleAnalytics = ""
+googleAnalytics = "UA-59045667-1"
 
 [params]
 

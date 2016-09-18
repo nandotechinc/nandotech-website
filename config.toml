@@ -2,7 +2,6 @@
 baseurl = "http://nandotech.com/"
 languageCode = "en-us"
 title = "NandoTech, Inc."
-theme = "hugo-agency-theme"
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = ""
 
@@ -17,8 +16,8 @@ googleAnalytics = ""
 
 	# To provide some metadata for search engines feel free to add a few
     # information about you and your website.
-	name = "Your name"
-	description = "Your description"
+	name = "NandoTech Inc - Software Developers and Consultants"
+	description = "NandoTech offers fully customized .NET-based software solutions.  Specializing in C#, we have extensive experience providing enterprise solutions to businesses.  This encompasses any and all business needs. CRMs, reporting, automation, & much more. Hosting and support packages also available."
 
 	# Since this template is static, the contact form uses www.formspree.io as a
 	# proxy. The form makes a POST request to their servers to send the actual
@@ -59,8 +58,8 @@ googleAnalytics = ""
 
     # postpended links
     [[menu.postpend]]
-        url = "http://gohugo.io"
-        name = "External link"
+        url = "https://nandotech.github.io/"
+        name = "Blog"
         weight = 10
 
 
@@ -117,7 +116,7 @@ googleAnalytics = ""
 	[params.about]
         enable = true
 		title = "About"
-		subtitle = "Lorem ipsum dolor sit amet consectetur."
+		subtitle = "Software Developers and Telephony Solution Experts"
 		endpoint = "Be part<br>of our<br>story!"
 
 		# The events will be listed from the top to the bottom.
@@ -125,66 +124,65 @@ googleAnalytics = ""
 		# Replace them with your own.
 		[[params.about.events]]
 			img = "1.jpg"
-			date = "2009-2011"
+			date = "April 2013"
 			title = "Our Humble Beginnings"
-			description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+			description = "Our business and dream is born. Bootstrapping with our own capital, we saw it was time to quit our day jobs.  The demand and opportunity were there and growing.  We need execution."
 
 		[[params.about.events]]
-			img = "2.jpg"
-			date = "March 2011"
-			title = "An Agency is Born"
-			description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+			img = "DataCenter.jpg"
+			date = "July 2015"
+			title = "The Data Center"
+			description = "After long deliberation, we shifted from a purely consulting business into offering services (phone, dialer & custom software) to our customers all over the country."
 
 		[[params.about.events]]
-			img = "3.jpg"
-			date = "December 2012"
-			title = "Our Humble Beginnings"
-			description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+			img = "FirstOffice.jpg"
+			date = "August 2015"
+			title = "Our First Office"
+			description = "Nothing crazy or amazing--but it was ours. As a small business that has never taken outside funding, moving into our own location was a big step and one we did not take lightly.  With room for 3, there was a little room to spare."
 
 		[[params.about.events]]
-			img = "4.jpg"
-			date = "July 2014"
+			img = "NewOffice.jpg"
+			date = "August 2016"
 			title = "Phase Two Expansion"
-			description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+			description = "As our brand and business expands, so do we. Increasing demands upon our infrastructure force us to deploy some upgrades to our data center.  Right about the same time, NandoTech relocates to a newer, bigger office."
 
 
 	# Team section
 	[params.team]
         enable = true
 		title = "Our amazing team"
-		subtitle = "Lorem ipsum dolor sit amet consectetur."
-		description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde."
+		subtitle = "Developers and Problem Solvers"
+		description = "The brains behind the operation."
 
 		# All team member's pictures are stored under 'static/img/team'.
 		# Replace them with your own too.
 		[[params.team.members]]
-			img = "1.jpg"
-			name = "Kay Garland"
-			position = "Lead Designer"
+			img = "arron.jpg"
+			name = "Arron Mayers"
+			position = "VP // Technical Development"
 			social = [
-				["fa-twitter", "#"],
-				["fa-facebook", "#"],
-				["fa-linkedin", "#"]
+				["fa-twitter", "https://twitter.com/arronmayers"],
+				["fa-linkedin", "https://www.linkedin.com/in/arron-mayers-257a894a"]
 			]
 
 		[[params.team.members]]
-			img = "2.jpg"
-			name = "Larry Parker"
-			position = "Lead Marketer"
+			img = "nando.jpg"
+			name = "Fernando Rodriguez"
+			position = "President & CEO // Software Development"
 			social = [
-				["fa-twitter", "#"],
-				["fa-facebook", "#"],
-				["fa-linkedin", "#"]
+				["fa-twitter", "https://twitter.com/nandotechinc"],
+				["fa-facebook", "https://www.facebook.com/frodriguezu"],
+				["fa-linkedin", "https://www.linkedin.com/in/fernando-rodriguez-6082914a"]
 			]
 
 		[[params.team.members]]
-			img = "3.jpg"
-			name = "Diana Pertersen"
-			position = "Lead Developer"
+			img = "blank.png"
+			name = "This Could be You"
+			position = "Software Developer"
 			social = [
-				["fa-twitter", "#"],
-				["fa-facebook", "#"],
-				["fa-linkedin", "#"]
+				["fa-twitter", "https://twitter.com/nandotechinc"],
+				["fa-facebook", "https://www.facebook.com/frodriguezu"],
+				["fa-linkedin", "https://www.linkedin.com/in/fernando-rodriguez-6082914a"]
 			]
 
 	# Client section
@@ -194,27 +192,35 @@ googleAnalytics = ""
     	# All the clients' logos are stored under 'static/img/logos'.
     	# Replace them with your clients's logos.
     	[[params.clients]]
-    		logo = "envato.jpg"
+    		logo = "precision.jpg"
     		link = "#"
 
     	[[params.clients]]
-    		logo = "designmodo.jpg"
+    		logo = "movecaptain.png"
     		link = "#"
 
     	[[params.clients]]
-    		logo = "themeforest.jpg"
+    		logo = "cytranic.png"
     		link = "#"
 
     	[[params.clients]]
-    		logo = "creative-market.jpg"
+    		logo = "pmg.jpg"
     		link = "#"
+
+		[[params.clients]]
+    		logo = "avl-logo.gif"
+    		link = "#"
+
+		[[params.clients]]
+			logo = "taom_logo.png"
+			link = "#"
 
 
 	# Contact section
 	[params.contact]
         enable = true
 		title = "Contact us"
-		subtitle  = "Lorem ipsum dolor sit amet consectetur."
+		subtitle  = "We're more than happy to see how we can help! Get in touch!"
 		buttonText = "Send message"
 
 		# 'warning' defines error messages for invalid inputs
@@ -242,15 +248,15 @@ googleAnalytics = ""
 
 		[[params.footer.social]]
 			icon = "fa-twitter"
-			link = "#"
+			link = "https://twitter.com/nandotechinc/"
 
 		[[params.footer.social]]
 			icon = "fa-facebook"
-			link = "#"
+			link = "https://www.facebook.com/nandotechinc/"
 
 		[[params.footer.social]]
 			icon = "fa-linkedin"
-			link = "#"
+			link = "https://www.linkedin.com/company/3884621"
 
 		[[params.footer.quicklinks]]
 			text = "Privacy Policy"

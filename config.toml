@@ -203,14 +203,6 @@ googleAnalytics = ""
     		logo = "cytranic.png"
     		link = "#"
 
-    	[[params.clients]]
-    		logo = "pmg.jpg"
-    		link = "#"
-
-		[[params.clients]]
-    		logo = "avl-logo.gif"
-    		link = "#"
-
 		[[params.clients]]
 			logo = "taom_logo.png"
 			link = "#"

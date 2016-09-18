@@ -81,19 +81,19 @@ googleAnalytics = "UA-59045667-1"
         [[params.services.row]]
 
             [[params.services.row.list]]
-                icon = "fa-shopping-cart"
-                title = "E-Commerce"
-                description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+                icon = "fa-desktop"
+                title = "Web & Desktop"
+                description = "Classic web & desktop applications is where we started--leveraging the powerful .NET Framework for business critical needs."
 
             [[params.services.row.list]]
-                icon = "fa-laptop"
-                title = "Responsive Design"
-                description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+                icon = "fa-mobile"
+                title = "Mobile & Cross Platform"
+                description = "Beautiful mobile apps that run natively in every platform.  Why native?  One word:  Speed."
 
-            [[params.services.row.list]]
-                icon = "fa-lock"
-                title = "Web"
-                description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+			[[params.services.row.list]]
+    			icon = "fa-phone-square"
+    			title = "Call Center Services"
+    			description = "Fully customizable enterprise phone and call center solutions. Built on open source, our technology is proven over trillions of minutes of use."
 
 	# Portfolio section
 	[params.portfolio]

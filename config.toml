@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "http://nandotech.com/"
+baseurl = "https://nandotechinc.github.io/nandotech-website/"
 languageCode = "en-us"
 title = "NandoTech, Inc."
 # Enter your tracking code to enable Google Analytics

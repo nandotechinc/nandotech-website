@@ -57,6 +57,10 @@ googleAnalytics = "UA-59045667-1"
     #    weight = 10
 
     # postpended links
+	[[menu.postpend]]
+		url = "http://support.nandotech.com/"
+		name = "Support"
+		weight = 10
     [[menu.postpend]]
         url = "https://nandotech.github.io/"
         name = "Blog"

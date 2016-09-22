@@ -139,7 +139,7 @@ googleAnalytics = "UA-59045667-1"
 			description = "After long deliberation, we shifted from a purely consulting business into offering services (phone, dialer & custom software) to our customers all over the country."
 
 		[[params.about.events]]
-			img = "FirstOffice.jpg"
+			img = "FirstOfficeSquare.jpg"
 			date = "August 2015"
 			title = "Our First Office"
 			description = "Nothing crazy or amazing--but it was ours. As a small business that has never taken outside funding, moving into our own location was a big step and one we did not take lightly.  With room for 3, there was a little room to spare."

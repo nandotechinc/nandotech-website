@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://nandotechinc.github.io/nandotech-website/"
+baseurl = "http://www.nandotech.com"
 languageCode = "en-us"
 title = "NandoTech, Inc."
 # Enter your tracking code to enable Google Analytics
@@ -51,20 +51,20 @@ googleAnalytics = "UA-59045667-1"
     # below and replace the values with your own.
 
     # prepended links
-    #[[menu.prepend]]
-    #    url = "http://gohugo.io"
-    #    name = "Hugo"
-    #    weight = 10
+    [[menu.prepend]]
+       url = "https://nandotech.github.io/"
+        name = "Blog"
+        weight = 10
 
     # postpended links
 	[[menu.postpend]]
 		url = "http://support.nandotech.com/"
 		name = "Support"
 		weight = 10
-    [[menu.postpend]]
-        url = "https://nandotech.github.io/"
-        name = "Blog"
-        weight = 10
+   # [[menu.postpend]]
+   #     url = "https://nandotech.github.io/"
+   #     name = "Blog"
+   #     weight = 10
 
 
 	# Hero section
@@ -107,7 +107,7 @@ googleAnalytics = "UA-59045667-1"
 		# at the root of this Hugo site.
 		# For more informtion take a look at the README.
 		title = "Portfolio"
-		subtitle = "Lorem ipsum dolor sit amet consectetur."
+		subtitle = "Just a few projects we've worked on or put together showing off our divere skillset."
 
 		[params.portfolio.modal]
             client = "Client"
@@ -180,13 +180,13 @@ googleAnalytics = "UA-59045667-1"
 			]
 
 		[[params.team.members]]
-			img = "blank.png"
-			name = "This Could be You"
-			position = "Software Developer"
+			img = "sergio.png"
+			name = "Sergio Caceres"
+			position = "Associate Git Engineer"
 			social = [
-				["fa-twitter", "https://twitter.com/nandotechinc"],
-				["fa-facebook", "https://www.facebook.com/frodriguezu"],
-				["fa-linkedin", "https://www.linkedin.com/in/fernando-rodriguez-6082914a"]
+				["fa-twitter", "#"],
+				["fa-facebook", "#"],
+				["fa-linkedin", "#"]
 			]
 
 	# Client section
@@ -197,19 +197,19 @@ googleAnalytics = "UA-59045667-1"
     	# Replace them with your clients's logos.
     	[[params.clients]]
     		logo = "precision.jpg"
-    		link = "#"
+    		link = "https://www.facebook.com/PrecisionHealthcareCommunications/"
 
     	[[params.clients]]
     		logo = "movecaptain.png"
-    		link = "#"
+    		link = "https://movecaptain.com/"
 
     	[[params.clients]]
     		logo = "cytranic.png"
-    		link = "#"
+    		link = "http://www.cytranic.com/"
 
 		[[params.clients]]
 			logo = "taom_logo.png"
-			link = "#"
+			link = "http://theartofmedia.com/"
 
 
 	# Contact section

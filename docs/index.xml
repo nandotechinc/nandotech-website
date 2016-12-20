@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>NandoTech, Inc.</title>
-    <link>http://www.nandotech.com/</link>
+    <link>https://www.nandotech.com/</link>
     <description>Recent content on NandoTech, Inc.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://www.nandotech.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.nandotech.com/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

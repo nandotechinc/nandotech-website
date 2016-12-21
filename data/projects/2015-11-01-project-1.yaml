@@ -1,0 +1,10 @@
+modalID: 1
+title: MoveCaptain Media Storage
+subtitle: API Endpoint allowing associated mobile & web-based apps to upload media for storage & viewing in order to provide moving estimates..
+date: 2015-11-01
+img: movecap-elmah-lg.png
+preview: movecap-elmah-360.png
+client: MoveCaptain Systems
+clientLink: "http://www.movecaptain.com"
+category: Custom Software Design
+description: This project was phase 1 of a full and complete re-write of an existing system that was designed in Ruby. Phase 1 consisted of creating the Media Upload Service that is utilized in the project throughout. The project mainly consists of a single POST endpoint that will accept any sort of media post and save it to Azure SQL & Azure Blob Storage, respectively.

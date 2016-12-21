@@ -1,0 +1,10 @@
+modalID: 2
+title: MoveCaptain Administration Portal
+subtitle: Full Administration back-end for managing clients, customers & jobs.
+date: 2016-12-10
+img: mcadmin-full.png
+preview: mcadmin-preview.png
+client: MoveCaptain Systems
+clientLink: "http://www.movecaptain.com"
+category: Custom Software Design
+description: "The Administration side of MoveCaptain Portal. This consisted of Phase 2 where the entire remainder of the incomplete codebase was ported to .NET and completed as originally requested. This portion of the project was significantly longer and consists of _much, much more_ code than we previously saw."

@@ -1,0 +1,10 @@
+modalID: 4
+title: Nt-X VoIP Portal
+subtitle: VoIP Portal built using ASP.NET MVC & SQL Server for tracking of all internal customers.
+date: 2016-09-21
+img: ntx-portal-full.png
+preview: ntx-voip-preview2.png
+client: NandoTech, Inc.
+clientLink: "http://www.nt-x.com"
+category: ASP.NET MVC Custom Web App
+description: The Nt-X VoIP Portal is built fully using ASP.NET 4.6 and SQL Server 2012. While originally intended to become our primary customer portal for all things VoIP and SIP related, delays and changes in our processes have resulted in some shifting priorities. The primary function of the portal is communicating with the Twilio API to buy/release/add Phone Numbers as well as getting them added to our internal SQL Server, and finally pointing the numbers at the current correct system for customer shown.

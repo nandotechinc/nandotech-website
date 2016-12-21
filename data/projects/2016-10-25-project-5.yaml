@@ -1,0 +1,10 @@
+modalID: 5
+title: OncAlert Portal
+subtitle: VoIP Portal built using ASP.NET MVC & SQL Server for tracking of all internal customers.
+date: 2016-10-25
+img: oncalert-full.png
+preview: oncalert-preview2.png
+client: ONCAlert Inc.
+clientLink: "http://www.oncalert.com"
+category: ASP.NET MVC Custom Web App
+description: This was a fully custom ASP.NET MVC web app developed for our customer OncAlert. The app allowed for seamless and efficient communication between patient and lab for receiving test results.

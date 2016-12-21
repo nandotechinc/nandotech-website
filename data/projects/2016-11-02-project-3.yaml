@@ -6,5 +6,5 @@ img: ntx-twilio-full.png
 preview: nandotech-twilio-preview.png
 client: NandoTech, Inc.
 clientLink: "http://www.nandotech.com"
-category: Custom Console Application
+category: ASP.NET Core Console Application
 description: NandoTech has published our first open source utility that we are using in-house. The application in and of itself is nothing special and doesn’t do anything particuarly complicated, but it solves an important problem for us while having the added benefit of possibly helping someone else with a similar problem. The utility we’ve released is a Twilio Call Importer which essentially just goes out and grabs all SIP call logs from Twilio and then saves them in batches of 1,000 records into SQL Server

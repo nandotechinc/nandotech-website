@@ -1,0 +1,10 @@
+modalID: 6
+title: Github Viewer
+subtitle: AngularJS App allowing search of GitHub profiles and star breakdown
+date: 2015-10-03
+img: githubviewer-full.png
+preview: githubviewer-preview.png
+client: Open Source (MIT License)
+clientLink: "#"
+category: Custom Software Design
+description: This was a super quick one day project where we leveraged the GitHub public API with the front end and HTTP client written in AngularJS 1.5.  The page will allow you to type in any GitHub username and retrieve their public information.

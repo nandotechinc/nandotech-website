@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "http://www.nandotech.com/"
+baseurl = "https://nandotech.com/"
 languageCode = "en-us"
 title = "NandoTech, Inc."
 # Enter your tracking code to enable Google Analytics
@@ -52,7 +52,7 @@ googleAnalytics = "UA-59045667-1"
 
     # prepended links
     [[menu.prepend]]
-       url = "https://nandotech.github.io/"
+       url = "https://blog.nandotech.com"
         name = "Blog"
         weight = 10
 
@@ -62,7 +62,7 @@ googleAnalytics = "UA-59045667-1"
 		name = "Support"
 		weight = 10
    # [[menu.postpend]]
-   #     url = "https://nandotech.github.io/"
+   #     url = "https://blog.nandotech.com"
    #     name = "Blog"
    #     weight = 10
 

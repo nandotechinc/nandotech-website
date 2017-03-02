@@ -199,9 +199,9 @@ googleAnalytics = "UA-59045667-1"
     		logo = "precision.jpg"
     		link = "https://www.facebook.com/PrecisionHealthcareCommunications/"
 
-    	[[params.clients]]
-    		logo = "movecaptain.png"
-    		link = "https://movecaptain.com/"
+    	 [[params.clients]]
+    		logo = "american-van-lines.png"
+    		link = "http://www.americanvanlines.com/"
 
     	[[params.clients]]
     		logo = "cytranic.png"

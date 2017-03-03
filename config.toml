@@ -244,7 +244,7 @@ googleAnalytics = "UA-59045667-1"
 
 		[[params.footer.social]]
 			icon = "fa-twitter"
-			link = "https://twitter.com/nandotechinc/"
+			link = "https://twitter.com/nand0tech/"
 
 		[[params.footer.social]]
 			icon = "fa-facebook"
